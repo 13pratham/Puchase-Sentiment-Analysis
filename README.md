@@ -1,2 +1,16 @@
 # Puchase-Sentiment-Analysis
-A sample data of house prices for different locations is used to predict the house prices. Data cleaning, visualization and mining is done on given to get the useful information from the data. Predictive modeling is also done on given data to predict the future prices of the houses for different locations.
+Donwload the project and run the .ipynb file in the jupyter notebook.
+For project to run successful you need to have python3 installed in your system.
+You also need some libraries - pandas, numpy, scikit-learn, etc.
+
+Run below commands in jupyter to install required libraries for the project.
+
+!pip install os
+!pip install numpy
+!pip install pandas
+!pip install scipy
+!pip install pylab
+!pip install scikit-learn
+!pip install seaborn
+!pip install matplotlib
+!pip install statsmodel
