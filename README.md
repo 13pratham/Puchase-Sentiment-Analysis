@@ -9,7 +9,7 @@ Run below commands in jupyter to install required libraries for the project.
 !pip install numpy
 !pip install pandas
 !pip install scipy
-!pip install pylab
+!pip install pylab-sdk
 !pip install scikit-learn
 !pip install seaborn
 !pip install matplotlib
